@@ -59,8 +59,14 @@ RegisterNumber: 212224220077
 **Output:**
 
 **RTL**
+![rtl01](https://github.com/user-attachments/assets/e8b5f6aa-63ec-442c-9653-7ef0a9c28d3b)
+
+![rtl002](https://github.com/user-attachments/assets/812f5cb3-2377-47d7-8e9a-9a8976ac003d)
 
 **Timing Diagram**
+![td01](https://github.com/user-attachments/assets/64ffbb20-23f9-4f88-bf7c-1a559471d5a1)
+![td02](https://github.com/user-attachments/assets/763bf9f5-0339-4514-9a8f-4e613530e23d)
+
 
 **Result:**
 
